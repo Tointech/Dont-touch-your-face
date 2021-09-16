@@ -141,8 +141,15 @@ function App() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // change web title
+  useEffect(() => {
+    document.title = "Dont Touch Your Face"
+  }, [])
+
   return (
     <div className={`main ${touched ? 'touched' : ''}`}>
+      <h2>Avoid touching your face while working</h2>
+      
       <video
         ref = {video}
         className="video"
@@ -150,8 +157,8 @@ function App() {
       />
 
       <div className="control">
-        <button className="btn" onClick={() => train(NOT_TOUCH_LABEL)}>Train 1</button>
-        <button className="btn" onClick={() => train(TOUCHED_LABEL)}>Train 2</button>
+        <button className="btn" onClick={() => train(NOT_TOUCH_LABEL)}>Train Not Touch</button>
+        <button className="btn" onClick={() => train(TOUCHED_LABEL)}>Train Touch</button>
         <button className="btn" onClick={() => run()}>Run</button>
       </div>
     </div>
