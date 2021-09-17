@@ -163,7 +163,7 @@ function App() {
       </div>
 
       <div className="footer">
-        <h5>© 2021 Le Anh Thu</h5>
+        <h5>©2021 Le Anh Thu</h5>
       </div>
     </div>
   );
