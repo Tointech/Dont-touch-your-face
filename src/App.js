@@ -161,6 +161,10 @@ function App() {
         <button className="btn" onClick={() => train(TOUCHED_LABEL)}>Train Touch</button>
         <button className="btn" onClick={() => run()}>Run</button>
       </div>
+
+      <div className="footer">
+        <h5>© 2021 Le Anh Thu</h5>
+      </div>
     </div>
   );
 }

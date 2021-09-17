@@ -16,6 +16,11 @@ h2 {
   font-family: Roboto;
 }
 
+h5 {
+  font-family: Roboto;
+  color: #9d9d9d;
+}
+
 .video {
   width: 560px;
   height: 420px;
@@ -42,4 +47,8 @@ h2 {
 .btn:hover {
   background-color: #c1cfc0;
   color: white;
+}
+
+.footer {
+  padding-top: 190px;
 }
