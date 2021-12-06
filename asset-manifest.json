@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dont-touch-your-face/static/css/main.a213757e.chunk.css",
+    "main.js": "/dont-touch-your-face/static/js/main.42eeb32a.chunk.js",
+    "main.js.map": "/dont-touch-your-face/static/js/main.42eeb32a.chunk.js.map",
+    "runtime-main.js": "/dont-touch-your-face/static/js/runtime-main.c8cecefe.js",
+    "runtime-main.js.map": "/dont-touch-your-face/static/js/runtime-main.c8cecefe.js.map",
+    "static/js/2.42c6399e.chunk.js": "/dont-touch-your-face/static/js/2.42c6399e.chunk.js",
+    "static/js/2.42c6399e.chunk.js.map": "/dont-touch-your-face/static/js/2.42c6399e.chunk.js.map",
+    "static/js/3.075971ad.chunk.js": "/dont-touch-your-face/static/js/3.075971ad.chunk.js",
+    "static/js/3.075971ad.chunk.js.map": "/dont-touch-your-face/static/js/3.075971ad.chunk.js.map",
+    "index.html": "/dont-touch-your-face/index.html",
+    "static/css/main.a213757e.chunk.css.map": "/dont-touch-your-face/static/css/main.a213757e.chunk.css.map",
+    "static/js/2.42c6399e.chunk.js.LICENSE.txt": "/dont-touch-your-face/static/js/2.42c6399e.chunk.js.LICENSE.txt",
+    "static/media/hey_sound.8c2f8e9b.mp3": "/dont-touch-your-face/static/media/hey_sound.8c2f8e9b.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8cecefe.js",
+    "static/js/2.42c6399e.chunk.js",
+    "static/css/main.a213757e.chunk.css",
+    "static/js/main.42eeb32a.chunk.js"
+  ]
+}
